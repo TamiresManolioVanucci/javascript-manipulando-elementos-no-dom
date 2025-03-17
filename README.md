@@ -1,0 +1,1 @@
+Aprendemos a manipular o DOM com JavaScript, usando seletores como `querySelector` e `getElementById`. Alteramos textos com `innerHTML`, usamos `switch` para alternar contextos, controlamos áudio com `Checkbox` e `setInterval`, concatenamos strings, e implementamos temporizadores com o objeto `Date`.
